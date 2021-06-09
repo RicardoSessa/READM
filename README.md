@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/-WhatsApp-28A745?style=flat&logo=WhatsApp&logoColor=white" />
   </a>
   <a
-    href="mailto:ricardosessafilho@gmial.com" 
+    href="mailto:ricardosessafilho@gmail.com" 
     alt="Gmail"
     target="blank"
   >
