@@ -1,4 +1,12 @@
 <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RicardoSessa&show_icons=true&theme=dracula&hide=contribs,prs,issues">
+</p>
+
+<p align="center">
+  <img align="center" height="190" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RicardoSessa&layout=compact&theme=dracula" />
+</p>
+
+<p align="center">
    JavaScript | Node.js |
 </p>
 
